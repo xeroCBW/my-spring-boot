@@ -12,6 +12,8 @@ public class HelloController {
 		
 		return "hello spring boot first project";
 		
+		//初始化代码,并且准备马上提价了...
+		
 	}
 	
 }
