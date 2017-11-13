@@ -2,7 +2,7 @@
 
 springBoot-first demo
 
-###视频地址
+### 视频地址
 [视频地址](http://www.imooc.com/video/13599)
 
 ### 开篇
