@@ -36,3 +36,21 @@ springBoot-first demo
 ### 事务相关
 主要是@transcational
 ![image.png](http://upload-images.jianshu.io/upload_images/874748-44c23ce75310a584.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+### 表单验证
+![image.png](http://upload-images.jianshu.io/upload_images/874748-26252e78a568853f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+### 统一异常处理
+![image.png](http://upload-images.jianshu.io/upload_images/874748-bfdd1bc328e70812.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+成功/失败抽取统一的类
+![image.png](http://upload-images.jianshu.io/upload_images/874748-2b8832c9c4b771d4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](http://upload-images.jianshu.io/upload_images/874748-677e250dfa474a83.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](http://upload-images.jianshu.io/upload_images/874748-5248619fd04d6d77.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
+
+
+
