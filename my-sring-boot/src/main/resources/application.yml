@@ -1,0 +1,6 @@
+#使用yml就不需要设置properties,两个只能存在一个
+server:
+#这里配置的路径path
+  context-path: /test
+#  这里配置的端口号
+  port: 8081
